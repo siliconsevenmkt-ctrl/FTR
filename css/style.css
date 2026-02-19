@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #D4A574 0%, #8B6F47 100%);
+    background: linear-gradient(135deg, #FF8C42 0%, #FF6B35 100%);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -45,7 +45,7 @@ body {
     border-radius: 25px;
     object-fit: contain;
     background: transparent;
-    box-shadow: 0 8px 20px rgba(139, 111, 71, 0.3);
+    box-shadow: 0 8px 20px rgba(255, 107, 53, 0.3);
     transition: transform 0.3s ease;
 }
 
@@ -658,5 +658,6 @@ a.whatsapp-button i.fab.fa-whatsapp {
 body {
     animation: pageLoad 0.5s ease-out;
 }
+
 
 
