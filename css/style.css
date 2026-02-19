@@ -343,7 +343,7 @@ body {
 
 /* Botão Ajude a Vó Áurea com cor principal */
 .link-button.help-button {
-    background: linear-gradient(135deg, #8B6F47 0%, #D4A574 100%);
+    background: linear-gradient(135deg, #bf6302 0%, #ff9526 100%);
     border-color: #8B6F47;
     color: #ffffff;
 }
@@ -658,6 +658,7 @@ a.whatsapp-button i.fab.fa-whatsapp {
 body {
     animation: pageLoad 0.5s ease-out;
 }
+
 
 
 
